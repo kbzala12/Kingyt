@@ -2,7 +2,7 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, WebAppInfo
 
 BOT_TOKEN = "7559801414:AAG6nHs9zoF9CLDknI9E3c5zBqz8ekcgPXQ"
-WEB_APP_URL = "https://hkyt-bot.onrender.com/"  # ✅ WebApp URL लिंक
+WEB_APP_URL = "https://kingyt.onrender.com/"  # ✅ WebApp URL लिंक
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
