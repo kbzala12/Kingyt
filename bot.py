@@ -12,7 +12,7 @@ GROUP_ID =      # 👉 अपना Group ID डालो
 DAILY_BONUS = 10
 REFERRAL_POINTS = 100
 SUBMIT_COST = 1280
-BOT_USERNAME = "YourBotUsername" # 👉 अपना बॉट username (बिना @)
+BOT_USERNAME = "ytbotkb_bot" # 👉 अपना बॉट username (बिना @)
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
