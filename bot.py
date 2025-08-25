@@ -6,9 +6,9 @@ import threading
 import os
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = "YOUR_BOT_TOKEN"     # 👉 अपना Bot Token डालो
-ADMIN_ID = 1234567890            # 👉 अपना Admin ID डालो
-GROUP_ID = -1001234567890        # 👉 अपना Group ID डालो
+BOT_TOKEN = "8267991203:AAH7-oOq-qKAed4OSBQdMxlg-UDCVZLyzF0"     # 👉 अपना Bot Token डालो
+ADMIN_ID = 7459795138            # 👉 अपना Admin ID डालो
+GROUP_ID =      # 👉 अपना Group ID डालो
 DAILY_BONUS = 10
 REFERRAL_POINTS = 100
 SUBMIT_COST = 1280
